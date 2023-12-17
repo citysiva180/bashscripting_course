@@ -1,0 +1,53 @@
+██████╗  █████╗ ███████╗██╗  ██╗    ███████╗ ██████╗██████╗ ██╗██████╗ ████████╗██╗███╗   ██╗ ██████╗ 
+██╔══██╗██╔══██╗██╔════╝██║  ██║    ██╔════╝██╔════╝██╔══██╗██║██╔══██╗╚══██╔══╝██║████╗  ██║██╔════╝ 
+██████╔╝███████║███████╗███████║    ███████╗██║     ██████╔╝██║██████╔╝   ██║   ██║██╔██╗ ██║██║  ███╗
+██╔══██╗██╔══██║╚════██║██╔══██║    ╚════██║██║     ██╔══██╗██║██╔═══╝    ██║   ██║██║╚██╗██║██║   ██║
+██████╔╝██║  ██║███████║██║  ██║    ███████║╚██████╗██║  ██║██║██║        ██║   ██║██║ ╚████║╚██████╔╝
+╚═════╝ ╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝    ╚══════╝ ╚═════╝╚═╝  ╚═╝╚═╝╚═╝        ╚═╝   ╚═╝╚═╝  ╚═══╝ ╚═════╝ 
+                                                                                                      
+
+
+Introduction
+
+Section - 1 : Three core components of Bash Script 
+Section - 2 : Variables 
+Section - 3 : Bash Working Concepts 
+Section - 4 : Receive User inputs 
+Section - 5 : Logic 
+Section - 6 : Command Line Arguments and Options 
+Section - 7 : Arrays and For loops 
+Section - 8 : Debugging
+Section - 9 : Assignment  - Script Building 
+Section - 10 : Automation 
+Section - 11 : Remote Servers 
+
+
+Introduction - Shells vs Scripts 
+
+- What is Bash Shell 
+
+    - A Shell is a Program that interprets the commands you type in your terminal and passes them on your 
+    operating system 
+    - BASH Stands for BOURNE AGAIN SHELL 
+    - Based on the Bourne Shell, created by Stephen Bourne in 1979
+    - Bash is arguable the most commonly used Linux shell today 
+    - Its feature rich 
+
+- What is a shell script?
+
+- A Shell script is file containing commands for the shell 
+- A Bash Script is simply a file containing commands for the Bash Shell 
+- We will see how these are built in the next video 
+
+- Difference Between Shells and Scripts 
+- Why Bash is more Popular 
+- Why Scripting is a useful skill to learn 
+
+Why Bash ? 
+
+- Its Feature Rich 
+- Its Fast 
+- Its very common 
+
+
+
